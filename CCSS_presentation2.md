@@ -280,4 +280,3 @@ A: We support it as a first step, but not as the only step. Ban without educatio
 
 ---
 
-This script now follows your **exact slide order and content** (Slides 2 through 14) in plain, simple, conversational English. Each speaker has a clear role, and the flow matches your presentation deck perfectly.
