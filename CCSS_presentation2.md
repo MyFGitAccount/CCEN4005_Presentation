@@ -1,6 +1,8 @@
 
 
-## Presentation Speech: Australia’s Social Media Ban for Under-16s – A Useful Measure or a Misguided Fix?
+---
+
+## Presentation Speech: Australia's Social Media Ban for Under-16s – A Useful Measure or a Misguided Fix?
 
 **Course:** CCSS4043 Global Issues & Everyday Life  
 **Date:** 14 April 2026  
@@ -10,128 +12,151 @@
 
 ### Speaker 1 (Opening Hook – The Landmark Policy)
 
-Hello everyone. Our group is going to talk about something that affects almost every young person in the room: social media bans.
+Hi everyone. Today we are talking about something that affects all of us: social media.
 
-Last year, Australia did something no other country had ever done. They passed a law that says: **no one under 16 can use social media**. Not with parental permission. Not for just one hour. Zero access.
+Last year, Australia did something no country had ever done before. They made a law that says: **kids under 16 cannot use social media. At all.**
 
-The law took effect on 10 December 2025. Platforms like TikTok, Instagram, Snapchat, Facebook, and even YouTube now have to block kids under 16. If they don’t, they face fines up to $50 million Australian dollars.
+No Instagram. No TikTok. No Snapchat. No Facebook. No YouTube accounts. Nothing.
 
-The government said they did this to protect young people from what they call “predatory algorithms” – those smart programs that keep feeding you content to make you scroll forever. They also wanted to stop cyberbullying and harmful content.
+This law started on 10 December 2025. If social media companies let kids under 16 have accounts, they can be fined up to $50 million Australian dollars. That's a lot of money.
 
-Now, here’s the thing. This sounds great, right? Protect the kids. But the law has sparked a huge global debate. Some countries like France, Denmark, and the UK are now thinking of doing the same thing. Tech companies like Meta and Reddit are fighting back. And teenagers in Australia are angry.
+Why did Australia do this? The government says social media is hurting young people. They say the apps are designed to be addictive – like a slot machine. You keep scrolling and scrolling and you can't stop. They also want to stop cyberbullying and harmful content about eating disorders or suicide.
 
-So our question today is this: **Is Australia’s social media ban a useful measure, or is it a misguided fix?**
+Sounds good, right? Protect the kids. But not everyone agrees.
 
-Our answer? The ban is **conditionally useful**. It helps in some ways, but it fails in others. And if you look at it through the ideas from Lecture 6, you’ll see why.
+Some countries like France, Denmark, and the UK are thinking about doing the same thing. But tech companies like Meta (which owns Facebook and Instagram) are fighting back. And teenagers in Australia are really angry.
 
-Let me pass to my teammate to explain those key ideas.
+So our question today is: **Is this ban a good idea or a bad idea?**
+
+Our answer? It helps a little, but it's not the full solution. Let me explain why.
+
+I'll pass to my teammate to talk about two simple ideas that help us understand this.
 
 ---
 
 ### Speaker 2 (Theoretical Framework – Key Concepts from Lecture 6)
 
-Thanks. Before we judge the ban, we need two simple ideas from Lecture 6.
+Thanks. Before we decide if the ban is good or bad, we need to understand two simple ideas from our course.
 
-**First: Addictive affordances.**  
-That’s just a fancy way of saying: social media apps are *designed* to hook you. Infinite scrolling, push notifications, autoplay videos – these are not accidents. They are built to keep your eyes on the screen. Lecture 6 calls this the “attention economy.” Your attention is the product.
+**Idea number one: Apps are designed to hook you.**
 
-**Second: Surveillance capitalism.**  
-This sounds complicated, but it’s simple. You use a free app. The app watches everything you do – what you like, how long you look at a post, what you search for. Then it uses that data to predict what will keep you scrolling. And it sells ads based on that data. You are not the customer. You are the product.
+This is not an accident. Think about it. Why does TikTok autoplay the next video? Why does Instagram let you scroll forever with no end? Why do you get notifications that say "your friend just posted"?
 
-So when Australia bans under-16s from having accounts, they are not just blocking bad content. They are breaking the whole data-collection loop before it starts. No account means no tracking. No tracking means no personalized addictive feed.
+These features are built to keep you on the app as long as possible. The longer you stay, the more ads you see, and the more money the company makes. Your attention is the product. You are not the customer. You are the thing being sold.
 
-But – and this is a big but – banning access does not teach kids how to handle the internet when they turn 16. Lecture 6 warns us about this. It says we also need **digital literacy** – teaching kids how to spot fake news, protect their privacy, and manage screen time.
+**Idea number two: Free apps are not really free.**
 
-So the ban is like putting a fence at the edge of a cliff. That’s good. But it doesn’t teach the kid how to walk safely near cliffs in the future.
+You pay with your data. When you use a free app, that app is watching you. What do you like? What do you search for? How long do you look at a post? The app collects all of that. Then it uses that information to show you things that will keep you hooked. And it sells ads based on what it knows about you.
 
-Now let’s look at what the law actually does.
+So when Australia bans kids under 16 from having accounts, they are stopping this whole machine before it starts. No account means the app cannot track you. Cannot collect your data. Cannot feed you an addictive feed.
+
+But here's the problem. Banning kids does not teach them how to use the internet safely when they turn 16. They will just get full access one day with no skills to protect themselves.
+
+Think of it like this. The ban is like putting a fence at the edge of a cliff. That's good. But it doesn't teach the kid how to walk safely near cliffs in the future.
+
+Now let's look at what the ban actually does.
 
 ---
 
 ### Speaker 3 (Case Overview + Argument For the Ban)
 
-Hi everyone. Let me quickly explain how the ban works.
+Hi. Let me quickly explain how the ban works.
 
-The law targets ten platforms: Facebook, Instagram, TikTok, Snapchat, X (Twitter), YouTube, Reddit, Threads, Kick, and Twitch.  
-The platforms must take “reasonable steps” to block under-16s. That means using facial scans, ID checks, or even behavior analysis to guess your age.
+The law covers ten apps: Facebook, Instagram, TikTok, Snapchat, X (Twitter), YouTube, Reddit, Threads, Kick, and Twitch.
 
-Parents cannot opt their kids in. No exceptions.  
-And if a platform fails, they pay – up to $49.5 million fine.
+These apps have to block kids under 16. They can use facial scans, ID checks, or even guess your age based on what you post. Parents cannot say "it's okay" – no exceptions. If the apps don't follow the rules, they pay a fine of up to $49.5 million.
 
-Now, why do supporters like this ban?
+Now, why do people support this ban?
 
-**Because it removes the entire addiction machine.**
+**Because it stops the addiction machine.**
 
-Remember addictive affordances and surveillance capitalism? The ban cuts them off completely. An under-16 cannot create an account. So the platform cannot track them. Cannot feed them a personalized algorithm. Cannot trap them in an echo chamber.
+Remember what we just talked about? Apps are designed to hook you. The ban cuts that off completely. A kid under 16 cannot have an account. So the app cannot track them. Cannot feed them an addictive feed. Cannot trap them in a bubble where they only see one type of content.
 
-An ABC News article we read said the government wanted to protect kids from “phone addiction” and “endless doomscrolling.” That’s exactly what the ban does – it stops the loop before it starts.
+One news article we read said the Australian government wanted to protect kids from "phone addiction" and "endless doomscrolling." That's exactly what the ban does. It stops the loop before it starts.
 
-And early results? In the first month, platforms removed about **4.7 million accounts** of suspected under-16s. And a survey found that 61% of parents said their kids were spending more time offline, playing outside, or talking face-to-face.
+And early results? In the first month, apps removed about **4.7 million accounts** of kids under 16. And a survey found that 61% of parents said their kids were spending more time offline, playing outside, or talking to friends face-to-face.
 
-So in the short term, the ban works. It reduces exposure to the most dangerous parts of social media.
+So in the short term, the ban works. It reduces the harm.
 
-But here’s the problem. The ban has serious side effects.
+But there are serious problems. Let me pass to my teammate to explain.
 
 ---
 
 ### Speaker 4 (Argument Against the Ban – Unintended Consequences)
 
-Thank you. So the ban sounds good so far. But let me tell you why many people say it backfires.
+Thanks. So the ban sounds okay so far. But here is why many people say it actually makes things worse.
 
-**Problem one: It hurts the most vulnerable kids.**
+**Problem one: It hurts the kids who need help the most.**
 
-The Guardian interviewed a 15-year-old named Ezra Sholl. He is quadriplegic. He told them that social media is his lifeline. He cannot just go out and meet friends. Online is where his community is. The ban isolates him even more.
+The Guardian newspaper interviewed a 15-year-old boy named Ezra Sholl. He cannot move his arms and legs. He is quadriplegic. He told the reporter that social media is his lifeline. He cannot just go out and meet friends. Online is where his community is. The ban makes him more alone.
 
-The same is true for LGBTQIA+ teenagers in rural towns. For them, social media is often the *only* place they find acceptance. The ban takes that away.
+The same is true for LGBTQIA+ kids in small country towns. In many of those towns, there are no other kids like them. No support groups. Social media is the only place they can find acceptance. The ban takes that away.
 
 **Problem two: Kids find ways around the ban.**
 
-You think teenagers will just accept being blocked? No. They use VPNs to pretend they are in another country. They use fake birthdays. They move to smaller, unregulated apps like Lemon8 or Yope. These apps have no safety rules, no moderation, no age checks.
+Do you really think teenagers will just accept being blocked? No. They use VPNs to pretend they are in another country. They use fake birthdays. They move to smaller apps that are not banned yet, like Lemon8 or Yope.
 
-So the ban does not stop kids from using social media. It just pushes them into darker, more dangerous corners of the internet. That is a classic “second-order effect” – an unintended consequence.
+These smaller apps have no safety rules. No one is checking ages. No one is moderating content. So the ban does not stop kids from using social media. It just pushes them into darker, more dangerous corners of the internet.
 
-**Problem three: The ban does not teach anything.**
+**Problem three: The ban does not teach kids anything.**
 
-A 16-year-old who never used Instagram suddenly gets full access overnight. They have no digital literacy. No skills to handle addiction or disinformation. The ban just postponed the problem. It didn’t solve it.
+A kid who is banned until 16 turns 16 one day. On that day, they suddenly get full access to Instagram and TikTok. But they have no skills. They don't know how to spot fake news. They don't know how to stop scrolling. They don't know how to protect their privacy.
 
-And here is the kicker. A recent report from April 2026 found that **61% of kids aged 12 to 15 still have access** to their banned accounts. Why? Because platforms failed to remove them. So the ban is not even working properly.
+The ban did not teach them any of that. It just delayed the problem.
 
-So if a ban alone is not enough, what else can we do?
+And here is the worst part. A report from April 2026 found that **61% of kids aged 12 to 15 still have access** to their banned accounts. Why? Because the apps failed to remove them. So the ban is not even working properly.
+
+So if a ban alone is not the answer, what else can we do?
 
 ---
 
 ### Speaker 5 (Comparative Approach + Synthesis + Conclusion)
 
-That’s the key question. If banning isn’t the full answer, what is?
+That's the right question. If banning kids is not enough, what is the answer?
 
-**The better way is regulation plus education.**
+**The answer is: regulate the apps AND teach kids skills.**
 
-Let me give you examples from the BBC and expert reactions.
+Let me explain with real examples.
 
-First, **regulate the platforms, not the kids.**  
-The UK’s Online Safety Act forces platforms to remove harmful content and design safer features. The EU’s Digital Services Act requires algorithms to be audited by independent experts. Instead of banning users, you force companies to turn off infinite scroll, disable personalized feeds for minors, and set privacy to maximum by default.
+**First, regulate the apps, not the kids.**
 
-Second, **teach digital literacy in every school.**  
-Finland does this from kindergarten. Kids learn how to spot fake news, manage screen time, and protect their privacy. That builds lifelong resilience. A ban only lasts until 16. Skills last forever.
+Instead of banning young people, force the apps to be safer. For example, the UK has a law that forces social media companies to remove harmful content. The European Union has a law that lets independent experts check how algorithms work.
 
-Third, **include young people in the conversation.**  
-Right now, adults are making decisions without asking teenagers what they actually need. Professor Pete Etchells from the UK said young people have been “largely excluded from the debate.” That is a mistake.
+What would this look like in real life? For users under 18, apps could be forced to:
+- Turn off infinite scrolling
+- Stop showing personalized "For You" feeds
+- Set accounts to private by default
+- Block messages from strangers
+- Turn off notifications at night
 
-**So our final answer: Is the ban useful?**
+This fixes the problem at the source – the app itself – instead of punishing the user.
 
-Yes – but only conditionally.
+**Second, teach digital literacy in every school.**
 
-**In the short term, yes.** It removes the addictive loop for millions of kids. It forces platforms to take safety seriously. It gives families breathing space.
+Finland does this really well. They start teaching kids about fake news and online safety in kindergarten. By the time Finnish kids are teenagers, they know how to spot lies online, how to manage screen time, and how to protect themselves.
 
-**In the long term, no – not by itself.** It pushes kids into unregulated spaces. It isolates vulnerable youth. It does not teach digital resilience.
+A ban only lasts until age 16. Skills last forever. Why not do both?
 
-**Our final position:**  
-Australia’s ban is a bold first step, but it is not a complete solution. Protecting teenagers means shaping technology, not just blocking it.
+**Third, ask young people what they actually need.**
 
-We need a hybrid policy:  
-- Smart regulation that holds tech companies accountable  
-- Mandatory digital literacy education in schools  
-- And real conversations with young people about what they need
+Right now, adults are making decisions without talking to teenagers. Professor Pete Etchells from the UK said young people have been "left out of the conversation." That's a mistake. If the Australian government had asked teenagers, they might have heard answers like: "Make apps less addictive" or "Teach us how to spot fake news" instead of "Ban us completely."
+
+**So, our final answer: Is the ban useful?**
+
+Yes and no.
+
+**In the short term, yes.** It stops the addiction machine for millions of kids. It forces apps to take safety seriously. It gives families a break.
+
+**In the long term, no – not by itself.** It pushes kids into dangerous unregulated spaces. It hurts vulnerable kids who need online support. It does not teach any skills. And it's not even working properly – 61% of kids still have access.
+
+**Our final position:**
+
+Australia's ban is a brave first step. But it is not the whole answer. Protecting teenagers means fixing the technology, not just blocking it.
+
+We need a mix of solutions:
+- Smart rules that hold tech companies responsible
+- Digital literacy classes in every school
+- And actually listening to young people about what they need
 
 That is how you protect young people without abandoning them.
 
@@ -139,18 +164,15 @@ Thank you for listening. We are happy to take questions.
 
 ---
 
-### Optional: Q&A Preparation Notes
+### Optional: Q&A – Simple Answers
 
-If someone asks: *“But isn’t banning easier than teaching digital literacy?”*
+**Q: Isn't banning just easier than teaching kids?**  
+A: Easier doesn't mean better. Banning is quick but it fails in the long run. Teaching skills takes time but it works for life.
 
-You can say:  
-> Easier doesn’t mean better. Banning is like putting a bandage on a broken leg. It looks like you did something, but the real problem – addictive platform design – is still there. Teaching digital literacy takes time and money, but it works for life.
+**Q: Shouldn't parents just control their kids' phones?**  
+A: Parents should help. But apps are designed by experts in addiction. No parent can fight that alone. That's why we need rules for the apps themselves.
 
-If someone asks: *“What about parents? Shouldn’t they control their kids’ phones?”*
-
-You can say:  
-> Parents absolutely have a role. But the problem is that platforms are designed by experts in addiction. No parent can compete with that. That’s why we need regulation – to make the platforms less addictive in the first place.
+**Q: So do you support the ban or not?**  
+A: We support it as a first step, but not as the only step. Ban without education is like locking the front door but leaving the window open. Kids will find a way in, and they won't have learned anything.
 
 ---
-
-Let me know if you want a shorter version, cue cards, or a separate Q&A script.
