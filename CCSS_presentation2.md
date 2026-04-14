@@ -1,6 +1,4 @@
-Here is a complete presentation speech based on your slides, research files, and lecture concepts. The speech is written in **plain, conversational English** for **five presenters**. Each person’s role is clearly marked, and the tone is suited for a live presentation.
 
----
 
 ## Presentation Speech: Australia’s Social Media Ban for Under-16s – A Useful Measure or a Misguided Fix?
 
