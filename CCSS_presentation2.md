@@ -1,5 +1,4 @@
 
-
 ---
 
 ## Presentation Speech: Australia's Social Media Ban for Under-16s – A Useful Measure or a Misguided Fix?
@@ -37,13 +36,15 @@ But tech companies are pushing back. They say the law is too simple, invades pri
 
 So Australia's ban has become a test case. How far should governments go in controlling social media?
 
-Let me pass to my teammate to explain some key ideas from our course.
+**That brings me to the end of my section. To help us analyze this, let me pass the slide to my teammate, who will explain some key concepts from our course.**
 
 ---
 
 ### Speaker 2 (Slide 4: The Key Concepts from Lecture 6)
 
-Thanks. Before we judge the ban, we need three simple ideas from Lecture 6.
+**Thanks, [Speaker 1]. Let's move to Slide 4.**
+
+Before we judge the ban, we need three simple ideas from Lecture 6.
 
 **Idea one: Media convergence.**
 
@@ -59,11 +60,13 @@ Governments can use AI-generated content and fake information to manipulate publ
 
 So why do these ideas matter for Australia's ban? Because social media is not neutral. It is controlled by big companies. It traps you in echo chambers. And it can be used to manipulate people.
 
-Now let's look at what the law actually does.
+**I will end my section here. Now let's move to Slide 5, where my teammate will explain what the law actually does.**
 
 ---
 
 ### Speaker 3 (Slide 5: Case Overview – What Australia's Law Actually Does)
+
+**Thanks. Moving on to Slide 5 now.**
 
 Hi. Let me explain exactly how the ban works.
 
@@ -87,11 +90,13 @@ Messaging apps like WhatsApp, gaming platforms like Roblox, and education tools 
 
 Supporters say the ban protects youth mental health. Critics say it is a blunt instrument – too simple and crude – and it has serious privacy and enforcement problems.
 
-So that is the law. Now let's look at why supporters think it helps.
+**That is the law in a nutshell. I'll now hand over to my teammate, who will walk us through Slide 6 and explain why supporters think this ban helps.**
 
 ---
 
 ### Speaker 4 (Slide 6: Why Supporters Think the Ban Helps)
+
+**Thank you. Let's go to Slide 6.**
 
 Thanks. So why do people support this ban?
 
@@ -111,11 +116,13 @@ The policy reduces exposure, but it does not teach media literacy. It does not t
 
 So the ban helps in the short term, but it does not build long-term skills.
 
-Now let me pass to my teammate to explain why critics say the ban backfires.
+**I'll stop there. Now let me pass to my teammate on Slide 7 to explain why critics say the ban actually backfires.**
 
 ---
 
 ### Speaker 5 (Slide 7: Why Critics Say the Ban Backfires)
+
+**Thanks. Moving to Slide 7.**
 
 Thank you. So the ban sounds okay so far. But critics say it actually makes things worse. Here is why.
 
@@ -129,11 +136,13 @@ Young users will not just accept being blocked. They will shift toward VPNs to h
 
 So the law looks reactive, not systemic. It excludes users without actually fixing the platform environment that produces the harm.
 
-Now let's look at the evidence.
+**That's the critic's case. Now let's move to Slide 8, where [Speaker 1] will come back to show us the evidence – the numbers behind the ban.**
 
 ---
 
 ### Speaker 1 (Back for Slide 8: Evidence Snapshot – Short-Term Wins, Serious Gaps)
+
+**Thanks. Let's go to Slide 8.**
 
 Thanks. Let me give you the numbers.
 
@@ -153,9 +162,13 @@ The ban may create immediate disruption. But uneven platform enforcement makes i
 
 So a ban alone is not enough. What else can we do?
 
+**That's the evidence. I'll now pass back to [Speaker 2] on Slide 9 to look at some alternative approaches.**
+
 ---
 
 ### Speaker 2 (Back for Slide 9: Beyond Banning – Comparative and Complementary Approaches)
+
+**Thanks. Moving to Slide 9.**
 
 Thanks. Let me show you four different approaches and compare them.
 
@@ -179,11 +192,15 @@ Thanks. Let me show you four different approaches and compare them.
 - Main strength: Combines regulation, education, and age-appropriate design.
 - Main weakness: Requires sustained coordination and political will.
 
-So which is best? Let's find out.
+So which is best?
+
+**I'll end my section here. Let's find out on Slide 10, where my teammate will give us the final synthesis.**
 
 ---
 
 ### Speaker 3 (Back for Slide 10: Synthesis – Is the Ban Useful?)
+
+**Thanks. Let's move to Slide 10.**
 
 Hi. So here is our synthesis – our final judgment.
 
@@ -205,9 +222,13 @@ The ban is useful **only if** it is paired with media literacy, platform account
 
 So the ban is not a complete solution by itself.
 
+**I'll hand over now to [Speaker 4] on Slide 11 for the key takeaways.**
+
 ---
 
 ### Speaker 4 (Back for Slide 11: Key Takeaways)
+
+**Thanks. Moving to Slide 11.**
 
 Thanks. Let me summarize the four key takeaways.
 
@@ -225,9 +246,13 @@ The strongest response is a hybrid model: platform regulation plus digital liter
 
 Now let's conclude.
 
+**I'll pass to [Speaker 5] on Slide 12 for our conclusion.**
+
 ---
 
 ### Speaker 5 (Back for Slide 12: Conclusion)
+
+**Thanks. Let's go to Slide 12.**
 
 Thank you. Here is our final conclusion.
 
@@ -243,9 +268,13 @@ Regulate platform design. Build digital literacy. Create age-appropriate online 
 
 Protecting teens means shaping technology, not just blocking it.
 
+**I'll now hand back to [Speaker 1] on Slides 13 and 14 for our final position and Q&A.**
+
 ---
 
 ### Speaker 1 (Back for Slide 13-14: Final Position + Q&A)
+
+**Thanks. Moving to Slide 13.**
 
 **Slide 13 – Final Position**
 
@@ -257,6 +286,8 @@ A ban alone is not enough. We need a better way forward. That means:
 - Digital literacy taught in every school
 - Age-appropriate online spaces
 - And listening to young people, not just making decisions for them
+
+**And finally, Slide 14.**
 
 **Slide 14 – Thank you and Q&A**
 
@@ -277,6 +308,3 @@ A: Parents should help. But apps are designed by experts in addiction. No parent
 **Q: So do you support the ban or not?**
 
 A: We support it as a first step, but not as the only step. Ban without education is like locking the front door but leaving the window open. Kids will find a way in, and they won't have learned anything.
-
----
-
